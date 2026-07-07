@@ -1,6 +1,6 @@
-# ☀️ Solar Plant Performance Monitoring & Alert System
+# Solar Plant Performance Monitoring & Alert System
 
-Automated Python pipeline that ingests sensor data from a 500-panel solar plant, detects underperforming panels, generates a daily performance report, emails the maintenance team, and refreshes a BI-ready dashboard — on a schedule, with no manual steps.
+Automated Python pipeline that ingests sensor data from a 500-panel solar plant, detects underperforming panels, generates a daily performance report, emails the maintenance team, and refreshes a BI-ready dashboard on a schedule, with no manual steps.
 
 ## Why this exists
 
